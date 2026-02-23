@@ -5,3 +5,4 @@ ratelimit_data.json
 .venv/
 dist/
 build/
+*.egg-info/

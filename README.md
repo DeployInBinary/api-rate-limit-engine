@@ -38,7 +38,7 @@ This structure follows clean architecture principles and makes the engine easy t
 ## 🚀 Installation
 
 ```bash
-git clone git@github.com:DeployInBinary/api-rate-limit-engine.git
+git clone https://github.com/DeployInBinary/api-rate-limit-engine.git
 cd api-rate-limit-engine
 pip install -e .
 ```
