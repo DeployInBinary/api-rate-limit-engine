@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+ratelimit_data.json
+.env
+.venv/
+dist/
+build/
